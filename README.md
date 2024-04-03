@@ -11,7 +11,7 @@
 
 ## Технологии используемые в проекте:
 
-Python, FastAPI, DRF, Docker, Gunicorn
+Python, FastAPI, DRF, Docker, Gunicorn, Pytest
 
 ## Как запустить проект локально:
 
